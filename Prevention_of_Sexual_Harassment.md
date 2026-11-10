@@ -1,12 +1,13 @@
-Sexual Harassment Prevention
-Q1: What behaviours cause sexual harassment?
+# Sexual Harassment Prevention
 
-    Unwanted touching or staring.
-    Sexual jokes or comments.
-    Sending inappropriate messages or images.
+## Q1: What behaviours cause sexual harassment?
 
-Q2: What to do if you face or see sexual harassment?
+- Unwanted touching or staring.
+- Sexual jokes or comments.
+- Sending inappropriate messages or images.
 
-    Report to the company’s complaint team.
-    Write down details of the incident.
-    Support the victim and follow company rules.
+## Q2: What to do if you face or see sexual harassment?
+
+- Report to the company’s complaint team.
+- Write down details of the incident.
+- Support the victim and follow company rules.
