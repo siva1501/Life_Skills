@@ -14,10 +14,6 @@ We need to be dynamic and understand that there are no limitations to learning. 
 
 Internal Locus of Control means believing that our actions, decisions, and efforts influence the outcomes of our lives.
 
-I personally follow a quote from the Bhagavad Gita:
-
-**"Karmanye Vadhikaraste Ma Phaleshu Kadachana."**
-
 It means we have control over our actions, but not over the results. We should work hard for what we want without worrying too much about the outcome.
 
 ## 4. Key Points Mentioned by the Speaker to Build a Growth Mindset
